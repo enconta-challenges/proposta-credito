@@ -42,7 +42,7 @@ As transições de estado válidas são as ilustradas na figura a seguir:
 
 Desenvolva uma solução em plataforma **.NET Core** ou **.NET 5** que implemente as funcionalidades
 apresentadas. Você pode criar uma aplicação console, API, _class library_ ou até mesmo somente
-testes unitários.
+testes unitários. Utilize _mocks_ e/ou _stubs_ onde achar necessário.
 
 Não é necessário 
 * Criar mecanismos de persistência de dados
@@ -55,5 +55,6 @@ Não é necessário
 * Conceitos de Domain Driven Design
 * Conceitos de arquitetura de software
 * Densenvolvimento de aplicações em camadas
+
 
 ### 😎 Boa sorte!
