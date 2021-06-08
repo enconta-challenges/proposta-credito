@@ -4,7 +4,7 @@ Para avaliar a sua capacidade técnica, propomos um cenário e
 gostaríamos que você resolvesse o desafio utilizando suas habilidades.
 
 Não há o  certo nem o errado. Estruture a solução como você julgar mais adequado.
-Utilize comentários no código ou qualquer outro artifício para ajudar na
+Utilize comentários no código ou qualquer outro artifício para ajudar
 no entendimento da sua solução.
 
 ## Cenário
@@ -28,7 +28,7 @@ que você julgar necessárias):
 * Valor do empréstimo
 * Taxa de juros
 * Quantidade de parcelas
-* Histórico com a data a situação da proposta
+* Histórico com a data e a situação da proposta
 
 Considere que instituição financeira disponibilize uma API para a 
 emissão da propostas e que nos envie uma notificação quando uma proposta
