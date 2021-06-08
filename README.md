@@ -1,7 +1,5 @@
 # 🚀 Desafio Enconta
 
----
-
 Para avaliar a sua capacidade técnica, propomos um cenário e 
 gostaríamos que você resolvesse o desafio utilizando suas habilidades.
 
@@ -10,8 +8,6 @@ Utilize comentários no código ou qualquer outro artifício para ajudar na
 no entendimento da sua solução.
 
 ## Cenário
-
----
 
 A Enconta oferece produtos financeiros, sendo que um deles é o crédito pessoal.
 Para isso, devemos emitir propostas de crédito em uma instituição financeira.
@@ -44,8 +40,6 @@ As transições de estado válidas são as ilustradas na figura a seguir:
 
 ## O que você deve fazer?
 
----
-
 Desenvolva uma solução em plataforma **.NET Core** ou **.NET 5** que implemente as funcionalidades
 apresentadas. Você pode criar uma aplicação console, API, _class library_ ou até mesmo somente
 testes unitários.
@@ -55,8 +49,6 @@ Não é necessário
 * Criar um _frontend_
 
 ## O que iremos avaliar?
-
----
 
 * Capacidade de abstração e resolução de problemas
 * Conceitos de programação orientada a objetos e _design patterns_
